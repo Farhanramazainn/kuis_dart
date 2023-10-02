@@ -34,8 +34,10 @@ Jawaban : ![](jawaban_kuis/j6_dart.png)
 Penjelasan:Kode berikut mendeklarasikan dua variabel firsName dan lasName dengan tipe data String. Kemudian, kode tersebut menggunakan operator + untuk menggabungkan nilai kedua variabel tersebut menjadi satu variabel array dengan tipe data String
 
 # Tugas 7
-Soal : ![](jawaban_kuis/tugas7_dart.png)
-Jawaban : ![](jawaban_kuis/j7_dart.png)
+Soal : 
+![](jawaban_kuis/tugas7_dart.png)
+Jawaban : 
+![](jawaban_kuis/j7_dart.png)
 Penjelasan:ni adalah pernyataan untuk mendefinisikan variabel text. Dalam Dart, Anda dapat menggunakan tanda kutip tunggal (') untuk mendefinisikan string, tetapi jika Anda ingin menyertakan karakter tanda kutip tunggal di dalam string, Anda perlu menghindarinya dengan menggabungkannya dengan karakter escape (\). Jadi, di dalam string 'ini\'OPTIMAL\' \$sekali', karakter escape (\) digunakan sebelum tanda kutip tunggal (') untuk menghindarinya dan membuat string yang berisi 'OPTIMAL' di dalamnya. Selain itu, karakter escape \$ digunakan sebelum tanda dolar ($) untuk mengeksekusi interpolasi string, yaitu menggantikan $sekali dengan nilai yang sesuai.
 
 # Tugas 8
